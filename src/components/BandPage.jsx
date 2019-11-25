@@ -8,21 +8,23 @@ const BandPage = props => {
 
   console.log(band)
   return (
-    <div className={props.match.params.category}>
-      {/* <h1>Hello, you are on the {band.category} page!!!</h1> */}
-      <ul>
-        {band.albums.map(album => {
-          return (
-            <li>
-              <h1>{album.name}</h1>
-              <h2>{album.title}</h2>
-              <img src={album.image} alt="" />
-              <h3>{album.releaseDate}</h3>
-            </li>
-          )
-        })}
-      </ul>
-    </div>
+    <>
+      <div>
+        {/* <h1>Hello, you are on the {band.category} page!!!</h1> */}
+        <ul>
+          {band.albums.map(album => {
+            return (
+              <li>
+                <h1>{album.name}</h1>
+                <h2>{album.title}</h2>
+                <img src={album.image} alt="" />
+                <h3>{album.releaseDate}</h3>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    </>
   )
 }
 

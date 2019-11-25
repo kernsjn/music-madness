@@ -6,26 +6,26 @@ const HomePage = () => {
       <h1>Nikki's Top Bands</h1>
       <ul className="band-description">
         <li className="band1">
-          Red Hot Chili Peppers are an American rock band formed in Los Angeles
-          in 1983. The group's musical style primarily consists of alternative
-          rock with an emphasis on funk, as well as elements from other genres
-          such as punk rock and psychedelic rock. When played live, their music
-          incorporates elements of jam band due to the improvised nature of many
-          of their performances. Currently, the band consists of founding
-          members vocalist Anthony Kiedis and bassist Flea (Michael Peter
-          Balzary), longtime drummer Chad Smith, and former touring guitarist
-          Josh Klinghoffer. Red Hot Chili Peppers are one of the best-selling
-          bands of all time with over 80 million records sold worldwide, they
-          have been nominated for sixteen Grammy Awards, of which they have won
-          six, and are the most successful band in alternative rock radio
-          history, currently holding the records for most number-one singles ,
-          most cumulative weeks at number one and most top-ten songs on the
-          Billboard Alternative Songs chart. In 2012, they were inducted into
-          the Rock and Roll Hall of Fame. - Source Wikipedia
+          <b>Red Hot Chili Peppers</b> are an American rock band formed in Los
+          Angeles in 1983. The group's musical style primarily consists of
+          alternative rock with an emphasis on funk, as well as elements from
+          other genres such as punk rock and psychedelic rock. When played live,
+          their music incorporates elements of jam band due to the improvised
+          nature of many of their performances. Currently, the band consists of
+          founding members vocalist Anthony Kiedis and bassist Flea (Michael
+          Peter Balzary), longtime drummer Chad Smith, and former touring
+          guitarist Josh Klinghoffer. Red Hot Chili Peppers are one of the
+          best-selling bands of all time with over 80 million records sold
+          worldwide, they have been nominated for sixteen Grammy Awards, of
+          which they have won six, and are the most successful band in
+          alternative rock radio history, currently holding the records for most
+          number-one singles , most cumulative weeks at number one and most
+          top-ten songs on the Billboard Alternative Songs chart. In 2012, they
+          were inducted into the Rock and Roll Hall of Fame. - Source Wikipedia
         </li>
         <br></br>
         <li className="band2">
-          The Allman Brothers Band was an American rock band formed in
+          <b>The Allman Brothers Band </b>was an American rock band formed in
           Jacksonville, Florida in 1969 by brothers Duane Allman (founder, slide
           guitar and lead guitar) and Gregg Allman (vocals, keyboards,
           songwriting), as well as Dickey Betts (lead guitar, vocals,
@@ -42,7 +42,7 @@ const HomePage = () => {
         </li>
         <br></br>
         <li className="band3">
-          Prince Rogers Nelson (June 7, 1958 – April 21, 2016), known
+          <b>Prince </b>Rogers Nelson (June 7, 1958 – April 21, 2016), known
           mononymously as Prince, was an American singer, songwriter, musician,
           record producer, dancer, actor, and filmmaker. A guitar virtuoso known
           for his genre-crossing work and flamboyant stage appearances, Prince
