@@ -9,4 +9,47 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+nav {
+  background-color: white;
+  color: blue;
+  margin: 0;
+  padding: 2rem;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  padding: 1rem;
+}
+
+img {
+  width: 20rem;
+}
+
+.band1 {
+  background-color: red;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.band2 {
+  background-color: green;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+.band3 {
+  background-color: purple;
+  padding: 1rem;
+  margin-bottom: 2rem;
 }

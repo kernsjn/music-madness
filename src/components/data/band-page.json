@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "category": "red",
+      "albums": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq1hpX8rCa1th_dPSQDm_QAQbmAPmyW9n8Tu81xn-hIIHBcMc&s",
+          "title": "The Getaway",
+          "releaseDate": "7/17/2016"
+        },
+        {}
+      ]
+    },
+    {
+      "category": "allman",
+      "albums": [
+        {
+          "name": "The Allman Brothers",
+          "image": "https://www.thebighousemuseum.com/wp-content/uploads/2013/07/allman-brothers-band-1969-840x594.jpg",
+          "title": "The anniversary addition: Fillmore West 71",
+          "releaseDate": "9/6/2019"
+        },
+        {}
+      ]
+    },
+    {
+      "category": "prince",
+      "albums": [
+        {
+          "name": "The Artist Formerly known as Prince",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2019/09/prince-1999-estate-plans.jpg?resize=900,600&w=1200",
+          "title": "1999 Remaster Super Deluxe Edition",
+          "releaseDate": "11/29/2019"
+        },
+        {}
+      ]
+    }
+  ]
+}
