@@ -27,7 +27,7 @@ nav ul {
   justify-content: center;
 }
 
-li {
+nav li {
   list-style: none;
   display: flex;
   padding: 1rem;
@@ -52,4 +52,8 @@ img {
   background-color: purple;
   padding: 1rem;
   margin-bottom: 2rem;
+}
+
+li {
+  list-style: none;
 }
